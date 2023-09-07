@@ -1,0 +1,93 @@
+
+i{
+    font-size: 32px;
+}
+
+.bi-whatsapp{
+    color: rgb(40, 192, 108);
+    font-size: 32px;
+   align-items: center;
+}
+#ii{
+display: inline-block;
+background-color: #a4d378;
+border: 2px solid rgb(16, 179, 97);
+height: 40px;
+width: 200px;
+text-align: center;
+}
+
+.bi-instagram{
+    color: rgb(192, 40, 91);
+    font-size: 32px;
+   align-items: center;
+}
+#iii{
+    display: inline-block;
+    background-color: #df6ca2;
+    border: 2px solid rgb(179, 16, 92);
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    }
+
+
+    .div1{
+        position: relative;
+        height: 300px;
+        width: 400px;
+        background-color: #85a4b8;
+        border-radius: 10% 0% 10% 0%;
+        color: #325369;
+    }
+
+
+    .div2{
+        position: absolute;
+        background-color: #5a7b96;
+        height: 50px;
+        width: 50px;
+        left: 0;
+        top:0;
+        border-radius: 50%;
+    }
+
+
+    .div3{
+        position: absolute;
+        background-color: #5a7b96;
+        height: 30px;
+        width: 30px;
+        top: 100px;
+        border-radius: 50%;
+    }
+
+    .div4{
+        position: absolute;
+        background-color: #5a7b96;
+        height: 30px;
+        width: 30px;
+        top: 200px;
+        border-radius: 50%;
+    }
+
+    .div5{
+        position: absolute;
+        background-color: #5a7b96;
+        height: 50px;
+        width: 50px;    
+        bottom: 0px;
+        right: 0;
+        border-radius: 50%;
+    }
+
+    .div6{
+        position: absolute;
+        background-color: #5a7b96;
+        height: 30px;
+        width: 30px;
+        bottom: 50px;
+        right: 0;
+        border-radius: 50%;
+    }
+
